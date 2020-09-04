@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="16" viewBox="0 0 99 16">
-  <image x="17" y="1" width="68" height="13" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAANCAYAAAAQRMgWAAADn0lEQVRIiZ2XaYiXVRTGfzZajkugUVCSWThCBiFUREGOUrZYgbRR6oBDC2gpMUJgZCn2QULTNlJRKkpqJIsg27V0qGxRPzhG4RINhWSNS7ZpjcWB58LT6f3/Bz1wee99znPPe99zzj33vn34r9wMNAODgG1AO7DPGHcDlwHfAfMN7wcsBRqB1cB6050NTAWagL+ALcBaoBs4GXgGaACWANtt3hTgSmA58Jnhs4ELKtYwGHhC/enAEf4vC4EzEvqz1vtuZoexv4F/rAVxmHE+kK47zW20OXMNHw58nGxG2wCMBfraO+ckm53Cn0z4EeGfJPxisz+uwhkhxyrWEu0gMMOJr5ryK2CzjT1qLwrbkl7UHzgk3X2G7UtOcLst4j2u8Vtmb6jxdhp+vuFT0hqmm669hkN2Sb8beB/YBPxq864J0i0GLLLJEw2/6QQcMlnj37VdikT0rrfxteIdBk4S1pIiWObfa1hOfc/EyLoBdRxyp2GDlASBr4wFXC5FAA8aMSJ2FzBPKXW8Mlz8P1KUPwLWpXGPFnaJsBvTu27Qc7yeW1NtG6HvOADsVU26o856B1o/MuR19RvDIUM0CGM9aeIqFa4NJ+CQzXpG+m9UVCYApyfen8CH6o/R8zo9S2EsNaE4LBfAEvFHgVnqz6C2HDVNZNqt6kc287yy4yedFvXkeLaM286tXXOKtEn/GHCW+l1Aq/rfA1eYjeb0/h+Fj9C48M5LvLJl9qo2blcSFH6carygQRht6MUhL4n7ZcJP0bYK3cyki2g/q1PBi+wrxrlIWGyF59R/TbpfNO6wWtPX5jZboSyyXtjCGg7JrdvrynIpf7Oi5tJgBapd3E8reCVD2npx6jLxemwvD6lY5P3SrUn4G8neanNYs47zVZb1VQ4Jp09SG5cczEP2sguTgU7t4+K9p2vcQ5rsjJ9s+OAKh/jpNdTwPenDzxV+e8J9Sw7QZa8q6qVdVeGQFupIk03uUoGZoMJV8DM1fYxhX+jIvBr4Vtgxc8IkObNDFT8icQ/wQ406tMJsdxo+MF0YR5qu1fC3dXpFe9O28NoKh8yu5xDkgFoefiBx2+pwxxtvWR3efmBUsuv3oQVJt9HqnEuX8M8rvmmO2TtN2GGNH+nNIagiL1bkvgZeVgZUyaWqPVGlI5px2ywp7hJ3g6f0L/IN8B7wMHBqBTfqyA5dkkYn3W3CY3sXiXtORDzw+AfLco7sBafca94Rf1rlVwH/Av/lcJihhMPaAAAAAElFTkSuQmCC"/>
+<svg width="69" height="13" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="15" width="71" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="16" id="svg_1" y="12.2431" x="-0.56195" stroke-width="0" stroke="#fff" fill="#000000">CUSWAP</text>
+ </g>
 </svg>

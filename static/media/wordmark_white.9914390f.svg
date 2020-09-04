@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="16" viewBox="0 0 99 16">
-  <image x="17" y="1" width="68" height="13" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAANCAYAAAAQRMgWAAAD5klEQVRIiZ2Xa4iWVRDHf65ttV4CNzIqMos2qCCMimgpVzErK6HSjdQWlC1Bu3xQCIyu1AeJbnahNoqMilrQ+uJtq928UGilfdCiMC9JJVpb1oq1res/zvJ/YDo+77uwA4eZ858585x3zsyc8w6TRKAZQBMwCvgaaAcOBv3dwFXAj8DjAa8FngfqgHeBzqA7G7gTaAD6gK3ASqAbOBF4GRgOPAdsD+vmAFOANmBLwBcDF5fsYTSwzPICoJfjaSkwNkN/8347BmYpIB7LJB3V/6lT0lnB5hNruwOWRl1Y9XDAx0n6TMdTl6SJkk4I31yS+dxh/IUM7zX+eYZfHr4yKdMV41jJXhIdkrRwIDlsuCIov5W0Ocy3B4dvG9uafehkSX9ad2/ADgY/XZnfFts96/ma4K8+2O0M+IUBn5PtYUHQtVcIyA/W75L0saSNkg6Hddcno5kBeDosvjHgtw0hILM9PyKpIdim07spzG+wXY+kGmMt2QkW6+8J2NhsDzETU9aNqBKQ1oCNchIker0GaHQtpWbyYKitNcBdwGPAoZJ6HIzGWf83sDPYrgdWZ/N+960rjE3PfN9sPtl8W9bbxvt3/AHsd0+aVWV/I4N8GPjQcl0KyBhPkrP+bOEbblxdQwjIZvN6YAPQCkwFTsvs/gE+tTzBfJp50RgnmRcB68h8tJo/CdxveWGVvf0b5NRkmy0fSSmz3Onyq6TaCrU3lB4SfefU7jWF3SLrn5J0puV9kuZZ/knSNcFHU/b9A8bHe17QeRVKZr97Yxr9wX5KMnrLk+R0+CABece2X2X4Se7Uie7LdNMkveJbITbZ94PNZca2SXrT8gfW/eX5JvMe307F2ibjuwLWaWxphYDk1F30lRqnLK5hlaRXqscRlmvN+zKblNrDMpuC1vpd0Oj0bDPeHGp5t/mlwFzLG83XmV9tnsr3aPA/3/wXv6EmAnuNtVJOy4FbPVJfOt3tYeDafShE65KSt0Bv6Mov2S5/hzSEO352wEeXZFm8veoDvjs7tXON35HhsSTTTdJX4dQLurYkQ1pK9kXxDmkIi1PdNkuaKqkj4Gd4wYSAfekr8zpJe4wdC0G4xcFMqT7L1+18ST/bNu9DrwXfOwI+Mnswnh908wK+VtJqj1WhhFeWBGRxtYDgAFSiB7JFi6rYTg52r1ax+13SBZnf+B56ItNtMH4gw/cZ/6Lkxy0J/k411uP5o4MFBHfkZ3xy30l6zxlQtvBKSW3u0uk002uzSPE4GiW9KGmLpO8lfSTpEUmnlNiOkfSNH0kXZbrbjafyLrD0tyCdeMJnlPg7x/6SzXRj62w/t/R3SfwHzneNxMSTo6gAAAAASUVORK5CYII="/>
+<svg width="69" height="13" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="15" width="71" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="16" id="svg_1" y="12.2431" x="-0.56195" stroke-width="0" stroke="#000000" fill="#fff">CUSWAP</text>
+ </g>
 </svg>
